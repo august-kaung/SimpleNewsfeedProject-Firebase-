@@ -1,6 +1,6 @@
 const String kAppName = 'My Feeds';
 const String kAppTitle = 'Feed';
-const String kNoDataText = 'There is no post in the server';
+const String kNoDataText = 'There is no data in the server';
 const String kSubDescriptionText = 'What is in your mind?';
 const String kEditText = 'Edit';
 const String kDeleteText = 'Delete';
