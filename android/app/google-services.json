@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761153469067",
+    "project_id": "simplenewsfeedproject-5243d",
+    "storage_bucket": "simplenewsfeedproject-5243d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761153469067:android:2992d8270703db6b66328e",
+        "android_client_info": {
+          "package_name": "com.example.simple_newsfeed_project_two"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761153469067-i3uns2r08rrtgmh5jiivvrk3an6kr03s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByrX1oIRtUzN-oDmeMolG14-mVwFtjcSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761153469067-i3uns2r08rrtgmh5jiivvrk3an6kr03s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
